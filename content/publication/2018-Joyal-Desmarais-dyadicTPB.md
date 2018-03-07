@@ -1,6 +1,6 @@
 +++
 title = "Parent and Adolescent Influences on Each Other’s Health Behaviors: A Cross-Sectional Examination of a Dyadic Theory of Planned Behavior in a U.S. National Sample"
-date = "2017-12-14"
+date = "2018-03-07"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["K Joyal-Desmarais", "RL Lenne", "et al."]
