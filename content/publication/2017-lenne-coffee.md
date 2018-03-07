@@ -62,6 +62,8 @@ image = ""
 caption = ""
 
 +++
-<figure class="image"><img src="/img/Lenne2017Fig2.color.tiff" alt="Figure 2 sugar use in coffee from Lenne & Mann 2017"><figcaption>Sugar-use by condition at baseline (before the intervention), one month after the intervention ended, and six months after the intervention ended. The left panel shows the frequency of consumption of sugar-free coffee. The right panel shows the percent of cups of coffee that were consumed sugar-free. Mean and standard error are depicted at each time point. All responses are plotted.</figcaption></figure>
+
+
+<figure class="image"><img src=/img/Lenne2017Fig2.color.tiff alt="Figure 2 sugar use in coffee from Lenne & Mann 2017"><figcaption>Sugar-use by condition at baseline (before the intervention), one month after the intervention ended, and six months after the intervention ended. The left panel shows the frequency of consumption of sugar-free coffee. The right panel shows the percent of cups of coffee that were consumed sugar-free. Mean and standard error are depicted at each time point. All responses are plotted.</figcaption></figure>
 
 

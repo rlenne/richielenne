@@ -17,8 +17,8 @@ authors = ["K Joyal-Desmarais", "RL Lenne", "et al."]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Under Review *Annals of Behavioral Medicine*, ABM."
-publication_short = "Under Review *ABM*"
+publication = "*Under Review*"
+publication_short = "*Under Review*"
 
 # Abstract and optional shortened version.
 abstract = "Background: Interpersonal relationships are important predictors of health outcomes, and interpersonal influences on health-related behaviors may represent key mechanisms underlying these effects. However, most health behavior theories focus predominantly on intrapersonal influences on behavior and may not adequately account for these interpersonal influences. Purpose: We therefore propose and evaluate a dyadic extension of the Theory of Planned Behavior and explore the degree to which adolescents’ and parents’ characteristics (i.e., attitudes, subjective norms, perceived behavioral control, intentions) predict not only their own, but each other’s intentions and behaviors. Methods: We analyze responses from 1,717 parent-adolescent dyads from the Family Life, Activity, Sun, Health, and Eating (FLASHE) study. Using the Actor-Partner Interdependence Model, we evaluate a dyadic extension to the Theory of Planned Behavior in four behavior domains: fruit and vegetable consumption, junk food and sugary drinks consumption, engagement in physical activity, and engagement in screen time sedentary behaviors. Results: Across each behavior domain, we find evidence for interpersonal effects of parents and adolescents on each other’s health-relevant intentions and behaviors. Overall, parent and adolescent characteristics predict each other’s outcomes at similar levels, but parent characteristics more strongly predict adolescent intentions, whereas adolescent characteristics more strongly predict parent behaviors. Conclusions: Our study indicates that parents and their adolescents may bidirectionally influence each other’s intentions and behaviors. These results highlight the importance of dyadic models of health behavior and suggest important targets for future interventions."
