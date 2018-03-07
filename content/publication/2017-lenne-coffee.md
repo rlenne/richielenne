@@ -21,7 +21,7 @@ publication = "In *Journal of Health Psychology*, JHP."
 publication_short = "In *JHP*"
 
 # Abstract and optional shortened version.
-abstract = "Consuming coffee without (or with less) sugar may help people lower their daily calorie intake without restrictive dieting. We tested two theory-based interventions to help people do so. One involved gradually reducing sugar over time, and the other was based on mindfulness theory. These interventions were compared to a repeated exposure (to sugar-free coffee) group. Participants in all conditions had significant increases in consumption of sugar-free coffee that lasted 6 months. The mindfulness group had a larger increase than the others. Unexpectedly, the gradual reduction intervention led to a decrease in liking for sugar-free coffee and was the least effective."
+abstract = "Consuming coffee without (or with less) sugar may help people lower their daily calorie intake without restrictive dieting. We tested two theory-based interventions to help people do so. One involved gradually reducing sugar over time, and the other was based on mindfulness theory. These interventions were compared to a repeated exposure (to sugar-free coffee) group. Participants in all conditions had significant increases in consumption of sugar-free coffee that lasted 6 months (see Figure 1 below). The mindfulness group had a larger increase than the others. Unexpectedly, the gradual reduction intervention led to a decrease in liking for sugar-free coffee and was the least effective."
 # Featured image thumbnail (optional)
 image_preview = ""
 
@@ -58,9 +58,10 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "Lenne2017Fig2.color.tiff"
-caption = "sugar-free consumption before/after interventions"
+image = ""
+caption = ""
 
 +++
+<figure class="image"><img src="/img/Lenne2017Fig2.color.tiff" alt="Figure 2 sugar use in coffee from Lenne & Mann 2017"><figcaption>Sugar-use by condition at baseline (before the intervention), one month after the intervention ended, and six months after the intervention ended. The left panel shows the frequency of consumption of sugar-free coffee. The right panel shows the percent of cups of coffee that were consumed sugar-free. Mean and standard error are depicted at each time point. All responses are plotted.</figcaption></figure>
 
 
