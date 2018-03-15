@@ -218,16 +218,6 @@ defaultContentLanguageInSubdir = false
     link = "https://scholar.google.be/citations?user=1DHwuIoAAAAJ&hl=en"
 
   [[params.social]]
-    icon = "cog"
-    icon_pack = "fa"
-    link = "https://osf.io/h5tve/"
-
-  [[params.social]]
-    icon = "open-access"
-    icon_pack = "ai"
-    link = "http://bit.ly/LennePsyArXiv"
-
-  [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/rlenne"
