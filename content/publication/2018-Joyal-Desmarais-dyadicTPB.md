@@ -1,5 +1,5 @@
 +++
-title = "Interpersonal Effects of Parents and Adolescents on Each Other’s Health Behaviours: Examining a Dyadic Extension to the Theory of Planned Behaviour."
+title = "Interpersonal Effects of Parents and Adolescents on Each Other’s Health Behaviours: Examining a Dyadic Extension to the Theory of Planned Behaviour"
 date = "2018-03-07"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
