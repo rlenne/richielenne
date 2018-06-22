@@ -17,8 +17,8 @@ authors = ["RL Lenne", "M Mann"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Health Psychology*, JHP."
-publication_short = "In *JHP*"
+publication = "*Journal of Health Psychology*"
+publication_short = "*JHP*"
 
 # Abstract and optional shortened version.
 abstract = "Consuming coffee without (or with less) sugar may help people lower their daily calorie intake without restrictive dieting. We tested two theory-based interventions to help people do so. One involved gradually reducing sugar over time, and the other was based on mindfulness theory. These interventions were compared to a repeated exposure (to sugar-free coffee) group. Participants in all conditions had significant increases in consumption of sugar-free coffee that lasted 6 months. The mindfulness group had a larger increase than the others. Unexpectedly, the gradual reduction intervention led to a decrease in liking for sugar-free coffee and was the least effective."
@@ -35,7 +35,7 @@ selected = false
 
 # Links (optional)# Custom links (optional).
 url_preprint = "https://dx.doi.org/10.17605/OSF.IO/JZA9R"
-#url_pdf = ""
+url_pdf = "pubpdf/Lenne, Mann - 2017 - Journal of Health Psychology.pdf"
 url_code = "https://osf.io/yq52s/"
 url_dataset = "https://osf.io/yq52s/"
 #url_project = ""

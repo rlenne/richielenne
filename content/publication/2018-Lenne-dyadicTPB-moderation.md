@@ -1,9 +1,9 @@
 +++
 title = "Parenting Styles Moderate How Parent and Adolescent Beliefs Shape Each Other’s Eating and Physical Activity: Dyadic Evidence from a Cross-Sectional, U.S. National Survey"
-date = "2018-01-01"
+date = "2018-06-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["RL Lenne", "K Joyal-Desmarais", "et al."]
+authors = ["RL Lenne", "et al."]
 
 # Publication type.
 # Legend:
@@ -17,8 +17,8 @@ authors = ["RL Lenne", "K Joyal-Desmarais", "et al."]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Under Review*"
-publication_short = "*Under Review*"
+publication = "*Journal of Experimental Social Psychology*, in press"
+publication_short = "*JESP*, in press"
 
 # Abstract and optional shortened version.
 abstract = "Psychological theories of health behavior focus on intrapersonal influences on behavior. Greater attention to interpersonal effects and the relational contexts that regulate them has the potential to improve theory, and offer innovative strategies for intervention. This research takes a dyadic approach to understanding how parent and adolescent beliefs influence each other’s health behaviors, and how the relationship context of parent-adolescent dyads moderates these effects. Using the Family Life, Activity, Sun, Health, and Eating study (FLASHE), we analyze responses from 1,717 parent-adolescent dyads from across the U.S., and explore a dyadic extension to the Theory of Planned Behavior (TPB). We evaluate how parenting styles that characterize each parent-adolescent dyad moderate the degree to which parents’ and adolescents’ own attitudes, subjective norms, and perceived behavioral control are associated with the other person’s behaviors across four domains: fruit and vegetable consumption, junk food and sugary drinks consumption, engagement in physical activity, and engagement in screen time sedentary behaviors. We find that the association between parents’ attitudes, social norms, and perceived behavioral control and their adolescent’s eating behavior tends to be stronger when parents have an authoritative parenting style. However, we also find that the association between adolescents’ attitudes, social norms, and perceived behavioral control and their parent’s eating behavior tends to be stronger when parents have an authoritative parenting style. These findings show the importance of context in evaluating interpersonal influence, and hold implications for health-relevant interventions."

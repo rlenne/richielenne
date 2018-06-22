@@ -35,7 +35,7 @@ selected = false
 
 # Links (optional)# Custom links (optional).
 url_preprint = "https://dx.doi.org/10.17605/OSF.IO/XQBVD"
-#url_pdf = ""
+url_pdf = "pubpdf/Lenne et al. - 2017 - Appetite.pdf"
 url_code = "https://osf.io/2vzyh/"
 url_dataset = "https://osf.io/2vzyh/"
 #url_project = ""
