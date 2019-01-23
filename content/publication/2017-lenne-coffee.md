@@ -3,7 +3,7 @@ title = "Reducing sugar in coffee while maintaining enjoyment: A randomized cont
 date = "2017-06-26"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["RL Lenne", "M Mann"]
+authors = ["Lenne", "Mann"]
 
 # Publication type.
 # Legend:

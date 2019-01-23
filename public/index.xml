@@ -6,7 +6,7 @@
     <description>Recent content in Richie Lenne on Richie Lenne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Richie L. Lenne</copyright>
+    <copyright>&amp;copy; 2019 Richie L. Lenne</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
@@ -25,6 +25,15 @@
       <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/publication/2018-lenne-dyadictpb-moderation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data availability, reusability, and analytic reproducibility: evaluating the impact of a mandatory open data policy at the journal Cognition</title>
+      <link>/publication/2019-hardwicke-cod/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-hardwicke-cod/</guid>
       <description></description>
     </item>
     

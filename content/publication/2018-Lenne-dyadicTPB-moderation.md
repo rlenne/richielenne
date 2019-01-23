@@ -3,7 +3,7 @@ title = "Parenting Styles Moderate How Parent and Adolescent Beliefs Shape Each 
 date = "2019-01-18"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["RL Lenne", "et al."]
+authors = ["Lenne", "et al."]
 
 # Publication type.
 # Legend:

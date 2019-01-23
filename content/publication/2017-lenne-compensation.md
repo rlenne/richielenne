@@ -3,7 +3,7 @@ title = "Behavioral compensation before and after eating at the Minnesota State 
 date = "2017-07-14"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["RL Lenne", "M Mann"]
+authors = ["Lenne", "Mann"]
 
 # Publication type.
 # Legend:

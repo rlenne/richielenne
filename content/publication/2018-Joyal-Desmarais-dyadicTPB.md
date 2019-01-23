@@ -3,7 +3,7 @@ title = "Interpersonal Effects of Parents and Adolescents on Each Other’s Heal
 date = "2019-01-18"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["K Joyal-Desmarais", "RL Lenne", "et al."]
+authors = ["Joyal-Desmarais", "Lenne", "et al."]
 
 # Publication type.
 # Legend:
