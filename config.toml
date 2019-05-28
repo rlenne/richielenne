@@ -40,16 +40,18 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Richie L. Lenne"
-  role = "PhD Candidate"
+  role = "Data Scientist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Minnesota", url = "" },{ name = "curriculum vitae", url = "http://bit.ly/Lenne_CV" }]
+  organizations = [ { name = "Uber", url = "" },{ name = "resume", url = "http://bit.ly/lenne_resume" }]
+# { name = "curriculum vitae", url = "http://bit.ly/Lenne_CV" }
+
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Richie_headshot.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "ledon004@umn.edu"
-  address = " Elliott Hall N317, University of Minnesota, Minneapolis, MN 55455"
+  address = ""
   office_hours = ""
   phone = ""
   skype = ""
